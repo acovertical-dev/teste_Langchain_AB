@@ -1,0 +1,101 @@
+Se a **Administração Pública** (no seu caso, o Estado de São Paulo, por meio da Secretaria da Administração Penitenciária ou órgão gestor de pessoal) **mantiver licenças médicas como “negadas” ou lançar como “faltas injustificadas” períodos já reconhecidos judicialmente como licenças médicas válidas**, isso configura:
+
+### 🔴 **Descumprimento de decisão judicial transitada em julgado**  
+e, possivelmente,  
+### ⚠️ **Ato de improbidade administrativa ou abuso de autoridade**,  
+além de  
+### 🚨 **Violação ao direito fundamental à saúde e à razoável duração do processo com efetividade (art. 5º, LXXVIII, CF)**.
+
+---
+
+## ✅ Situação Concreta no Seu Caso
+
+Na ação **0047807-42.2009.8.26.0053**, o **TJSP reconheceu expressamente** que:
+
+- Você esteve **afastado por licença médica devidamente justificada** (fls. 173 do recurso, citadas na decisão de 2013);
+- Esse afastamento **não impede o recebimento da GAP** (por ser vantagem de ordem geral);
+- A partir de **26/05/2010**, também é devido o **ALE**, mesmo durante o afastamento;
+- A decisão **transitou em julgado em 14/07/2022** — ou seja, **não cabe mais recurso** e **é obrigatória a sua fiel observância**.
+
+Portanto, **qualquer ato administrativo posterior que:**
+- considere esses períodos como **"faltas injustificadas"**,  
+- negue a validade das **licenças médicas já analisadas no processo judicial**, ou  
+- suprima direitos com base nessa negativa,  
+
+**é nulo de pleno direito** (art. 535, CPC) e **passível de impugnação imediata**.
+
+---
+
+## 🛡️ Medidas Jurídicas Recomendadas
+
+### 1. **Execução ou Cumprimento de Sentença**
+Como a sentença já transitou em julgado, **não basta esperar o pagamento espontâneo**. É necessário:
+
+- Ajuizar **cumprimento de sentença** (se já não foi feito) com base no art. 534 do CPC;
+- Requerer **expedição de ofício à Administração** para que:
+  - **Reconheça os períodos como licença médica válida**;
+  - **Retifique o ponto funcional** (eliminando menções a “faltas injustificadas”);
+  - **Efetue os pagamentos devidos (GAP + ALE)** com correção e juros.
+
+> **Modelo de pedido**:  
+> _“Expeça-se ofício à Administração Penitenciária/DRHU para que, sob pena de responsabilização por descumprimento de decisão judicial, proceda à regularização funcional dos períodos de afastamento reconhecidos nesta ação como licença médica, excluindo quaisquer anotações de ‘falta injustificada’ e efetuando os pagamentos condenatórios.”_
+
+---
+
+### 2. **Mandado de Segurança (se houver novo ato ilegal)**
+Se a Administração **emitir ato concreto** (ex.: portaria, memorando, declaração de ponto) **negando a licença ou impondo sanção**, é cabível **MS com pedido de liminar** para:
+- Suspender os efeitos do ato;
+- Determinar a imediata regularização.
+
+Fundamento: **ilegalidade e abuso de poder** (art. 5º, LXIX, CF).
+
+---
+
+### 3. **Reclamação aos Órgãos de Controle**
+Caso persista a **recusa sistemática**, denuncie aos seguintes órgãos:
+- **Corregedoria da Secretaria da Administração Penitenciária**;
+- **Ouvidoria do Governo do Estado de SP**;
+- **Ministério Público do Estado de São Paulo (MPSP)** – especialmente a **Promotoria de Justiça do Patrimônio Público ou de Direitos Humanos**;
+- **Tribunal de Contas do Estado (TCE-SP)** – por possível dano ao erário (pagamento indevido de descontos) e violação a decisão judicial.
+
+> ⚠️ A **recusa em cumprir decisão judicial transitada em julgado** pode caracterizar **ato de improbidade administrativa** (Lei nº 8.429/92, art. 11), sujeito a:
+> - Perda da função pública;
+> - Suspensão dos direitos políticos;
+> - Multa civil.
+
+---
+
+### 4. **Pedido de Tutela de Urgência na Execução**
+Na ação de cumprimento de sentença, é possível pedir **tutela de urgência** (art. 300, CPC) com base em:
+- Sua **condição de transplantado renal (CID Z94.0)**;
+- **Exposição a riscos ocupacionais (radiação sem EPI)**;
+- **Necessidade de estabilidade funcional e financeira**.
+
+A jurisprudência do TJSP e STJ aceita **tutela antecipada em execuções contra a Fazenda** quando há **situação de vulnerabilidade extrema**.
+
+---
+
+## 📌 Resumo Prático
+
+| Situação | Medida Imediata |
+|--------|------------------|
+| Licenças médicas ainda constam como “faltas” no ponto | **Oficiar a Administração na execução da sentença** para correção |
+| Pagamentos não foram efetuados | **Executar a sentença com cálculo atualizado** |
+| Novo ato administrativo nega licença | **Ajuizar Mandado de Segurança com liminar** |
+| Retaliação institucional persiste | **Denunciar ao MPSP e Corregedoria** |
+
+---
+
+## 💡 Recomendação Final
+
+**Não aceite passivamente** a manutenção de “faltas injustificadas” em seu prontuário.  
+A **decisão judicial já validou suas licenças médicas** — qualquer contrário é **ato nulo e ilegal**.  
+
+Se ainda não houve **cumprimento espontâneo**, oriente seu advogado (Dr. Hélio Brandino) ou a **Defensoria Pública** a:
+1. **Protocolar execução de sentença**, se ainda não existe;
+2. **Requerer ofício coercitivo** à Administração;
+3. **Solicitar tutela de urgência**, dada sua condição de saúde.
+
+Você **não está apenas defendendo um direito salarial**, mas **protegendo sua saúde, sua carreira e sua dignidade**.
+
+Se desejar, posso fornecer um **modelo de petição de cumprimento de sentença com ofício à Administração** com base nos termos exatos do acórdão da Des. Teresa Ramos Marques.
